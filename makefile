@@ -20,4 +20,5 @@ flash:
 
 .PHONY: clean
 clean:
-	$(RM) -f build/top.json build/top.asc build/top.bin
+	$(RM) -f build/top.json build/top.asc build/top.bin 
+	rmdir build

@@ -1,4 +1,4 @@
-# Clockwork lemon
+# Timekeeper
 
 A clock generator eurorack module based on the Upduino open source FPGA development board (FPGA: Lattic UltraPlus ICE40UP5K)
 
